@@ -12,6 +12,7 @@ public class Leetcode_3 {
         int val;
         ListNode next;
     }
+
     public ListNode mergeTwoLists1(ListNode l1, ListNode l2) {
         ListNode head = new ListNode(-1);
         ListNode tail = head;
