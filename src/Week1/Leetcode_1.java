@@ -30,4 +30,5 @@ public class Leetcode_1 {
         }
         throw new IllegalArgumentException("Khong co ket qua ") ;
     }
+
 }
